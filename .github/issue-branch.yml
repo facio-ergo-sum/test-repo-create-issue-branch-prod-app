@@ -1,3 +1,2 @@
 mode: auto
-openPR: true
 branchName: '${issue.created_at}-${issue.number}-${issue.title}'
