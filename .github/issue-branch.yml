@@ -1,5 +1,5 @@
 mode: auto
-branchName: '${issue.created_at}-${issue.number}-${issue.title}'
+# branchName: '${issue.created_at}-${issue.number}-${issue.title}'
 copyIssueProjectsToPR: true
 # openDraftPR: true
 autoCloseIssue: true
