@@ -1,17 +1,1 @@
-branchName: '${issue.number%4}-${issue.title,}'
-autoCloseIssue: true
-copyIssueDescriptionToPR: true
-copyIssueLabelsToPR: true
-copyIssueAssigneeToPR: true
-copyIssueProjectsToPR: true
-copyIssueMilestoneToPR: true
-openPR: true
-branches:
-  - label: bug
-    prefix: bug/
-  - label: enhancement
-    prefix: enhancement/
-  - label: maintenance
-    prefix: maintenance/
-  - label: '*'
-    prefix: issue/
+openDraftPR: true
