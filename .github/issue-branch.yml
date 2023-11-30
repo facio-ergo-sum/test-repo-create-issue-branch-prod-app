@@ -1,1 +1,2 @@
-openDraftPR: true
+mode: immediate
+conventionalPrTitles: true
