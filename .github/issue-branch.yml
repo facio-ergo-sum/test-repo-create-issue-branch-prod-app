@@ -1,2 +1,3 @@
-mode: immediate
-conventionalPrTitles: true
+mode: auto
+openPr: true
+copyIssueDescriptionToPR: true
